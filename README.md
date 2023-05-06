@@ -12,7 +12,7 @@ open source and currently seeking to find an open source project to contribute.
 
 #### My Skills
 
-HTML - CSS - Javascript - Typescript - React - Node.JS - Express - Unite testing
+HTML - CSS - Javascript - Typescript - React - Node.JS - Express - Unit testing
 
 On of my funny open source projects https://github.com/amirho1/react-special-cursor
 
