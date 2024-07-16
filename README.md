@@ -8,13 +8,13 @@ open source and currently seeking to find an open source project to contribute.
 
 - 📫 How to reach me: amirhosseinsalighedar@gmail.com
 - 👯 I’m looking to collaborate on a (javascript, typescript, react, Node) project.
-- 👨‍💻Currently working with Comviva company as a front end developer.
+- 👨‍💻Currently working with Ariana labs company as a front end developer.
 
 #### My Skills
 
-HTML - CSS - Javascript - Typescript - React - Node.JS - Express - Unit testing
+HTML - CSS - Javascript - Typescript - React - Node.JS - Express - Writi Unit testing
 
-On of my funny open source projects https://github.com/amirho1/react-special-cursor
+One of my funny open source projects https://github.com/amirho1/react-special-cursor
 
 <!--
 **amirho1/amirho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
