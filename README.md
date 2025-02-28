@@ -2,7 +2,7 @@
 
 ### Hi there 👋 About me
 
-I am a passionate, self-taught web developer with a strong proficiency in a variety of skills. I thrive on teaching, learning, and exploring the cutting edge of technology. As a dedicated Linux enthusiast with a keen interest in open source, I am currently seeking opportunities to contribute to meaningful open source projects.
+I am a punctual and responsible web developer with over 3 years of experience developing 10+ projects. Skilled in delivering high-quality development practices, consistently achieving flawless sprints, and creating reusable components and functionalities utilized across multiple projects. Proficient in optimizing legacy codebases, mentoring team members, and teaching modern coding practices to enhance code readability. Passionate about overcoming challenges, sharing knowledge, and fostering continuous learning to remain at the cutting edge of technology.
 
 - 📫 **How to reach me:** [amirhosseinsalighedar@gmail.com](mailto:amirhosseinsalighedar@gmail.com)
 - 👯 **I’m looking to collaborate on:** JavaScript, TypeScript, React, and Node projects.
@@ -17,11 +17,16 @@ I am a passionate, self-taught web developer with a strong proficiency in a vari
 - React
 - Node.js
 - Express
-- Writing Unit Tests
+- Writing Unit Tests, Jest, Mocha
+- tailwind
+- Redux, zustand
+- 
 
-#### One of my Fun Open Source Projects
+
+#### Fun Open Source Projects
 
 Check out [React Special Cursor](https://github.com/amirho1/react-special-cursor) on GitHub.
+Check out [Visualized Javascript Runtime](https://github.com/amirho1/JavaScript-Runtime-Environment.git) on GitHub.
 
 <!--
 **amirho1/amirho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
